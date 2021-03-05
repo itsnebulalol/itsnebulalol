@@ -43,9 +43,11 @@ public class Nebula extends Person implements YouTuber, Gamer, Developer {
 <img align="left" alt="Java" width="26px" src="http://www.athenaglobus.com/wp-content/uploads/2014/12/java-logo-png.png" /> 
 -->
 
+<!--
 ---
 
 [![Spotify](https://spotify-readme.itsnebulalol.vercel.app/api/spotify)](https://open.spotify.com/user/ednl3jpgrarpezv89mu6hhn2n)
+-->
 
 ---
 
@@ -121,7 +123,7 @@ Windows                  2 hrs 49 mins       ███████████�
   
 </details>
 
-[website]: https://nebulayt.xyz
+[website]: https://itsnebula.lol
 [arcwebsite]: https://arcmc.cf
 [youtube]: https://www.youtube.com/nebulalol
 [twitch]: https://twitch.tv/itsnebulalol
