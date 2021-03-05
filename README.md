@@ -77,25 +77,25 @@ public class Nebula extends Person implements YouTuber, Gamer, Developer {
 ⌚︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Java                     3 hrs 20 mins       ███████████████████░░░░░░   79.32% 
-Groovy                   24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.55% 
-CSON                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   3.86% 
-XML                      8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.38% 
-INI                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.03%
+Java                     2 hrs 8 mins        ███████████████████░░░░░░   76.19% 
+Groovy                   18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.66% 
+CSON                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   5.76% 
+XML                      7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.59% 
+Markdown                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.54%
 
 🔥 Editors: 
-IntelliJ                 4 hrs 2 mins        ████████████████████████░   96.14% 
-Atom                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   3.86%
+IntelliJ                 2 hrs 39 mins       ███████████████████████░░   94.24% 
+Atom                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   5.76%
 
 🐱‍💻 Projects: 
-CheatBreaker             1 hr 45 mins        ██████████░░░░░░░░░░░░░░░   41.83% 
-GopineClient             1 hr 44 mins        ██████████░░░░░░░░░░░░░░░   41.35% 
-client                   18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   7.48% 
-Unknown Project          18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   7.28% 
-Flux                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.77%
+GopineClient             1 hr 29 mins        █████████████░░░░░░░░░░░░   53.14% 
+CheatBreaker             38 mins             █████░░░░░░░░░░░░░░░░░░░░   22.6% 
+client                   18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   11.18% 
+Unknown Project          17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.43% 
+Flux                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.65%
 
 💻 Operating System: 
-Windows                  4 hrs 12 mins       █████████████████████████   100.0%
+Windows                  2 hrs 49 mins       █████████████████████████   100.0%
 
 ```
 
