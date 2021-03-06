@@ -79,25 +79,23 @@ public class Nebula extends Person implements YouTuber, Gamer, Developer {
 ⌚︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Java                     2 hrs 8 mins        ███████████████████░░░░░░   76.19% 
-Groovy                   18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.66% 
-CSON                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   5.76% 
-XML                      7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.59% 
-Markdown                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.54%
+Java                     50 mins             █████████████████░░░░░░░░   69.64% 
+Groovy                   15 mins             █████░░░░░░░░░░░░░░░░░░░░   21.47% 
+JSON                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   5.92% 
+Git Config               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.97%
 
 🔥 Editors: 
-IntelliJ                 2 hrs 39 mins       ███████████████████████░░   94.24% 
-Atom                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   5.76%
+IntelliJ                 1 hr 13 mins        █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-GopineClient             1 hr 29 mins        █████████████░░░░░░░░░░░░   53.14% 
-CheatBreaker             38 mins             █████░░░░░░░░░░░░░░░░░░░░   22.6% 
-client                   18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   11.18% 
-Unknown Project          17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.43% 
-Flux                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.65%
+GopineClient             53 mins             ██████████████████░░░░░░░   72.68% 
+CheatBreaker             8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   11.23% 
+client                   5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   7.21% 
+settings.json            4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   6.39% 
+Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   2.5%
 
 💻 Operating System: 
-Windows                  2 hrs 49 mins       █████████████████████████   100.0%
+Windows                  1 hr 13 mins        █████████████████████████   100.0%
 
 ```
 
