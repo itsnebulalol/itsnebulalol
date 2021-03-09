@@ -79,23 +79,22 @@ public class Nebula extends Person implements YouTuber, Gamer, Developer {
 ⌚︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Java                     50 mins             █████████████████░░░░░░░░   69.64% 
-Groovy                   15 mins             █████░░░░░░░░░░░░░░░░░░░░   21.47% 
-JSON                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   5.92% 
-Git Config               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.97%
+TypeScript               1 hr 4 mins         ████████████░░░░░░░░░░░░░   47.94% 
+Other                    40 mins             ███████░░░░░░░░░░░░░░░░░░   30.04% 
+JSON                     28 mins             █████░░░░░░░░░░░░░░░░░░░░   20.83% 
+JavaScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.93% 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.26%
 
 🔥 Editors: 
-IntelliJ                 1 hr 13 mins        █████████████████████████   100.0%
+IntelliJ                 2 hrs 14 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-GopineClient             53 mins             ██████████████████░░░░░░░   72.68% 
-CheatBreaker             8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   11.23% 
-client                   5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   7.21% 
-settings.json            4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   6.39% 
-Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   2.5%
+backend                  1 hr 58 mins        ██████████████████████░░░   88.11% 
+frontend                 11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.42% 
+settings.json            4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.47%
 
 💻 Operating System: 
-Windows                  1 hr 13 mins        █████████████████████████   100.0%
+Windows                  2 hrs 14 mins       █████████████████████████   100.0%
 
 ```
 
