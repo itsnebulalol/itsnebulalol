@@ -79,22 +79,24 @@ public class Nebula extends Person implements YouTuber, Gamer, Developer {
 ⌚︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-TypeScript               1 hr 4 mins         ████████████░░░░░░░░░░░░░   47.94% 
-Other                    40 mins             ███████░░░░░░░░░░░░░░░░░░   30.04% 
-JSON                     28 mins             █████░░░░░░░░░░░░░░░░░░░░   20.83% 
-JavaScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.93% 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.26%
+TypeScript               1 hr 30 mins        █████████████░░░░░░░░░░░░   52.74% 
+Other                    47 mins             ███████░░░░░░░░░░░░░░░░░░   27.87% 
+JSON                     30 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.7% 
+Java                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.76% 
+JavaScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.73%
 
 🔥 Editors: 
-IntelliJ                 2 hrs 14 mins       █████████████████████████   100.0%
+IntelliJ                 2 hrs 51 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-backend                  1 hr 58 mins        ██████████████████████░░░   88.11% 
-frontend                 11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.42% 
-settings.json            4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.47%
+backend                  2 hrs 14 mins       ███████████████████░░░░░░   78.36% 
+bot                      17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.39% 
+frontend                 11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.63% 
+settings.json            4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.73% 
+config.json              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   1.13%
 
 💻 Operating System: 
-Windows                  2 hrs 14 mins       █████████████████████████   100.0%
+Windows                  2 hrs 51 mins       █████████████████████████   100.0%
 
 ```
 
