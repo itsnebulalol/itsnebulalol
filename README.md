@@ -17,3 +17,6 @@ If you need to contact me, you can do so at `me@itsnebula.net` or [Discord](http
 If you want to know more about the languages and tools I use, please look at my [website](https://itsnebula.net)!
 
 If you'd like to support me, you can check out my [GitHub Sponsors](https://github.com/sponsors/itsnebulalol), my [donation page](https://itsnebula.net/donate), or buy my iOS tweak [Ding](https://chariz.com/buy/ding).
+
+```math
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://em-content.zobj.net/source/twitter/53/fire_1f525.png');]{x0000}$}
