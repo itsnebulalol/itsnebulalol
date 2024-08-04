@@ -10,7 +10,7 @@
 
 ### About me
 
-I'm Nebula, a developer from the United States. I started projects such as [palera1n](https://github.com/palera1n/palera1n) and [Permasigner](https://github.com/permasigner/permasigner). My favorite programming languages are Python, Typescript, and Rust, and I'm trying to get better at all 3 while learning a little C too.
+I'm Nebula, a developer from the United States. I started projects such as [palera1n](https://github.com/palera1n/palera1n) and [Permasigner](https://github.com/permasigner/permasigner). My favorite programming languages are Python and Typescript. I am learning how to build iOS apps with SwiftUI.
 
 If you need to contact me, you can do so at `me@itsnebula.net` or [Discord](https://discord.com/users/574669003755356162). If this is some sort of security issue or private information, please encrypt your email with [my GPG key](https://static.itsnebula.net/gpgkey.asc) (`FB04F6C8EC56DA32F33008C53D1B28A5FACCB53B`).
 
